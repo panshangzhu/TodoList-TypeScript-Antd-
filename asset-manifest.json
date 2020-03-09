@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TodoList-TypeScript-Antd-/static/css/main.91e3b67d.chunk.css",
+    "main.js": "/TodoList-TypeScript-Antd-/static/js/main.e26050bc.chunk.js",
+    "main.js.map": "/TodoList-TypeScript-Antd-/static/js/main.e26050bc.chunk.js.map",
+    "runtime-main.js": "/TodoList-TypeScript-Antd-/static/js/runtime-main.abbc4490.js",
+    "runtime-main.js.map": "/TodoList-TypeScript-Antd-/static/js/runtime-main.abbc4490.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/TodoList-TypeScript-Antd-/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.8249ac75.chunk.js": "/TodoList-TypeScript-Antd-/static/js/2.8249ac75.chunk.js",
+    "static/js/2.8249ac75.chunk.js.map": "/TodoList-TypeScript-Antd-/static/js/2.8249ac75.chunk.js.map",
+    "index.html": "/TodoList-TypeScript-Antd-/index.html",
+    "precache-manifest.bbac3380c859397d1772004a64d44f36.js": "/TodoList-TypeScript-Antd-/precache-manifest.bbac3380c859397d1772004a64d44f36.js",
+    "service-worker.js": "/TodoList-TypeScript-Antd-/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/TodoList-TypeScript-Antd-/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.91e3b67d.chunk.css.map": "/TodoList-TypeScript-Antd-/static/css/main.91e3b67d.chunk.css.map",
+    "static/js/2.8249ac75.chunk.js.LICENSE.txt": "/TodoList-TypeScript-Antd-/static/js/2.8249ac75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abbc4490.js",
+    "static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.8249ac75.chunk.js",
+    "static/css/main.91e3b67d.chunk.css",
+    "static/js/main.e26050bc.chunk.js"
+  ]
+}
